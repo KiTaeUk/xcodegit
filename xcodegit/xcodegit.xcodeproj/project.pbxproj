@@ -11,6 +11,7 @@
 		AD66724C297262E80064C1F8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD66724B297262E80064C1F8 /* ContentView.swift */; };
 		AD66724E297262E90064C1F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD66724D297262E90064C1F8 /* Assets.xcassets */; };
 		AD667251297262E90064C1F8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD667250297262E90064C1F8 /* Preview Assets.xcassets */; };
+		ADEFC8122972677F00224194 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEFC8112972677F00224194 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AD66724B297262E80064C1F8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AD66724D297262E90064C1F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD667250297262E90064C1F8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ADEFC8112972677F00224194 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				AD667249297262E80064C1F8 /* xcodegitApp.swift */,
 				AD66724B297262E80064C1F8 /* ContentView.swift */,
+				ADEFC8112972677F00224194 /* SecondView.swift */,
 				AD66724D297262E90064C1F8 /* Assets.xcassets */,
 				AD66724F297262E90064C1F8 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADEFC8122972677F00224194 /* SecondView.swift in Sources */,
 				AD66724C297262E80064C1F8 /* ContentView.swift in Sources */,
 				AD66724A297262E80064C1F8 /* xcodegitApp.swift in Sources */,
 			);
